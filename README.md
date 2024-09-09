@@ -37,14 +37,12 @@ The React frontend provides a user interface for submitting questions and displa
 ## Setup and Installation
 
 1. Clone the repository
-
  ```bash
 git clone https://github.com/samayunPathan/Similar-Question-Answer-React-Flask.git
 ```
 ```bash
-Similar-Question-Answer-React-Flask
+cd Similar-Question-Answer-React-Flask
 ```
-cd 
 3. Set up the PostgreSQL database
 4. Install backend dependencies:
     ```bash
